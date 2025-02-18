@@ -1,0 +1,10 @@
+phi  
+openai  
+streamlit  
+logging  
+json  
+os  
+crawl4ai
+openpyxl
+pillow
+langchain PyMuPDF faiss-cpu transformers
