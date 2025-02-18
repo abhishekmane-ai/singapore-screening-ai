@@ -1,10 +1,12 @@
-phi  
-openai  
 streamlit  
-logging  
+logging
+PyPDF2
+langchain
+langchain_google_genai
+PyPDF2
+phi
+pip install -U phidata
+pip install -U langchain-google-genai
 json  
-os  
-crawl4ai
-openpyxl
 pillow
 langchain PyMuPDF faiss-cpu transformers
