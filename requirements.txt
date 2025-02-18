@@ -3,6 +3,8 @@ logging
 PyPDF2
 crawl4ai
 googlesearch-python 
+faiss-cpu 
+transformers
 pycountry
 groq
 langchain
