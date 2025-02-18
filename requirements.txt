@@ -1,8 +1,11 @@
 streamlit  
 logging
 PyPDF2
+crawl4ai
+googlesearch-python pycountry
+groq
 langchain
- langchain-community
+langchain-community
 langchain_google_genai
 PyPDF2
 phi
