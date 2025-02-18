@@ -7,7 +7,5 @@ PyPDF2
 phi
 phidata
 langchain-google-genai
-json  
 pillow
-langchain 
 PyMuPDF
