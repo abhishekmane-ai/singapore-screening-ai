@@ -6,7 +6,7 @@ langchain_google_genai
 PyPDF2
 phi
 phidata
-angchain-google-genai
+langchain-google-genai
 json  
 pillow
 langchain 
