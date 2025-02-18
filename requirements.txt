@@ -5,8 +5,8 @@ langchain
 langchain_google_genai
 PyPDF2
 phi
-pip install -U phidata
-pip install -U langchain-google-genai
+pip install phidata
+pip install langchain-google-genai
 json  
 pillow
 langchain PyMuPDF faiss-cpu transformers
